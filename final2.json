@@ -14,7 +14,7 @@
       "Port8": 56539,
       "Port9": 423
     },
-    "Total_CNT": 338936
+    "Total_CNT": 380394
   },
   {
     "API_Description": "CHEQUE BOOK REQUEST",
@@ -31,7 +31,7 @@
       "Port8": 51,
       "Port9": 888
     },
-    "Total_CNT": 4
+    "Total_CNT": 20318
   },
   {
     "API_Description": "UTILITY BILL PAYMENT (ORG)",
@@ -40,7 +40,7 @@
     "Ports": {
       "Port1": 21,
       "Port2": 26,
-      "Port3": 0,
+      "Port3": 167, 
       "Port4": 31,
       "Port5": 33,
       "Port6": 22,
@@ -48,7 +48,7 @@
       "Port8": 92,
       "Port9": 581
     },
-    "Total_CNT": 167
+    "Total_CNT": 1007
   },
   {
     "API_Description": "UTILITY BILL PAYMENT (ADV)",
@@ -63,9 +63,9 @@
       "Port6": 20,
       "Port7": 22,
       "Port8": 4,
-      "Port9": 0
+      "Port9": 118
     },
-    "Total_CNT": 118
+    "Total_CNT": 843
   },
   {
     "API_Description": "FUND TRANSFER (INTERNAL)",
@@ -80,9 +80,9 @@
       "Port6": 9456,
       "Port7": 9001,
       "Port8": 8999,
-      "Port9": 0
+      "Port9": 9423
     },
-    "Total_CNT": 64212
+    "Total_CNT": 85390
   },
   {
     "API_Description": "FUND TRANSFER (EXTERNAL)",
@@ -97,9 +97,9 @@
       "Port6": 4150,
       "Port7": 4070,
       "Port8": 4000,
-      "Port9": 0
+      "Port9": 4355
     },
-    "Total_CNT": 35200
+    "Total_CNT": 38975
   },
   {
     "API_Description": "BALANCE INQUIRY",
@@ -113,10 +113,10 @@
       "Port5": 11490,
       "Port6": 11399,
       "Port7": 11288,
-      "Port8": 0,
-      "Port9": 0
+      "Port8": 11416, 
+      "Port9": 11416
     },
-    "Total_CNT": 90322
+    "Total_CNT": 102254
   },
   {
     "API_Description": "MINI STATEMENT FETCH",
@@ -130,10 +130,10 @@
       "Port5": 4900,
       "Port6": 5120,
       "Port7": 4999,
-      "Port8": 0,
-      "Port9": 0
+      "Port8": 4627,
+      "Port9": 4627
     },
-    "Total_CNT": 32930
+    "Total_CNT": 42184
   },
   {
     "API_Description": "CARD ACTIVATION",
@@ -147,10 +147,10 @@
       "Port5": 2099,
       "Port6": 2020,
       "Port7": 2100,
-      "Port8": 0,
-      "Port9": 0
+      "Port8": 2010, 
+      "Port9": 2010
     },
-    "Total_CNT": 14273
+    "Total_CNT": 18293
   },
   {
     "API_Description": "CARD BLOCKING REQUEST",
@@ -164,10 +164,10 @@
       "Port5": 1600,
       "Port6": 1550,
       "Port7": 1509,
-      "Port8": 0,
-      "Port9": 0
+      "Port8": 1630, 
+      "Port9": 1630
     },
-    "Total_CNT": 10323
+    "Total_CNT": 13783
   },
   {
     "API_Description": "BENEFICIARY REGISTRATION",
@@ -181,10 +181,10 @@
       "Port5": 3500,
       "Port6": 3456,
       "Port7": 3100,
-      "Port8": 0,
-      "Port9": 0
+      "Port8": 3505, 
+      "Port9": 3505
     },
-    "Total_CNT": 23929
+    "Total_CNT": 28039
   },
   {
     "API_Description": "MOBILE TOPUP REQUEST",
@@ -198,9 +198,9 @@
       "Port5": 6655,
       "Port6": 6711,
       "Port7": 6800,
-      "Port8": 0,
-      "Port9": 0
+      "Port8": 6672, 
+      "Port9": 6672
     },
-    "Total_CNT": 46389
+    "Total_CNT": 58087
   }
 ]
