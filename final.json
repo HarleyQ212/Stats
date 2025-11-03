@@ -1,0 +1,70 @@
+[
+  {
+    "API_Description": "ACCOUNT TITLE FETCH",
+    "MSGTYPID": "022",
+    "API": "ATF",
+    "Ports": {
+      "Port1": 56437,
+      "Port2": 56543,
+      "Port3": 0,
+      "Port4": 0,
+      "Port5": 56416,
+      "Port6": 56268,
+      "Port7": 56733,
+      "Port8": 56539,
+      "Port9": 0
+    },
+    "Total_CNT": 338936
+  },
+  {
+    "API_Description": "CHEQUE BOOK REQUEST",
+    "MSGTYPID": "021",
+    "API": "CBR",
+    "Ports": {
+      "Port1": 1,
+      "Port2": 1,
+      "Port3": 1,
+      "Port4": 1,
+      "Port5": 0,
+      "Port6": 0,
+      "Port7": 0,
+      "Port8": 0,
+      "Port9": 0
+    },
+    "Total_CNT": 4
+  },
+  {
+    "API_Description": "UITILITY BILL PAYMENT (ORG)",
+    "MSGTYPID": "060",
+    "API": "UBT",
+    "Ports": {
+      "Port1": 21,
+      "Port2": 26,
+      "Port3": 0,
+      "Port4": 31,
+      "Port5": 33,
+      "Port6": 22,
+      "Port7": 34,
+      "Port8": 0,
+      "Port9": 0
+    },
+    "Total_CNT": 167
+  },
+  {
+    "API_Description": "UITILITY BILL PAYMENT (ADV)",
+    "MSGTYPID": "062",
+    "API": "UBT",
+    "Ports": {
+      "Port1": 19,
+      "Port2": 19,
+      "Port3": 0,
+      "Port4": 21,
+      "Port5": 17,
+      "Port6": 20,
+      "Port7": 22,
+      "Port8": 0,
+      "Port9": 0
+    },
+    "Total_CNT": 118
+  }
+]
