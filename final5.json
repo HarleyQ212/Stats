@@ -1,0 +1,206 @@
+[
+  {
+    "API_Description": "ACCOUNT TITLE FETCH",
+    "MSGTYPID": "022",
+    "API": "ATF",
+    "Ports": {
+      "Port1": 56437,
+      "Port2": 56543,
+      "Port3": 233,
+      "Port4": 802,
+      "Port5": 56416,
+      "Port6": 56268,
+      "Port7": 56733,
+      "Port8": 56539,
+      "Port9": 423
+    },
+    "Total_CNT": 14500
+  },
+  {
+    "API_Description": "CHEQUE BOOK REQUEST",
+    "MSGTYPID": "021",
+    "API": "CBR",
+    "Ports": {
+      "Port1": 1434,
+      "Port2": 6327,
+      "Port3": 1032,
+      "Port4": 867,
+      "Port5": 233,
+      "Port6": 9182,
+      "Port7": 304,
+      "Port8": 51,
+      "Port9": 888
+    },
+    "Total_CNT": 13300
+  },
+  {
+    "API_Description": "UTILITY BILL PAYMENT (ORG)",
+    "MSGTYPID": "060",
+    "API": "UBT",
+    "Ports": {
+      "Port1": 21,
+      "Port2": 26,
+      "Port3": 167,
+      "Port4": 31,
+      "Port5": 33,
+      "Port6": 22,
+      "Port7": 34,
+      "Port8": 92,
+      "Port9": 581
+    },
+    "Total_CNT": 12312
+  },
+  {
+    "API_Description": "UTILITY BILL PAYMENT (ADV)",
+    "MSGTYPID": "062",
+    "API": "UBT",
+    "Ports": {
+      "Port1": 191,
+      "Port2": 19,
+      "Port3": 431,
+      "Port4": 21,
+      "Port5": 17,
+      "Port6": 20,
+      "Port7": 22,
+      "Port8": 4,
+      "Port9": 118
+    },
+    "Total_CNT": 14990
+  },
+  {
+    "API_Description": "FUND TRANSFER (INTERNAL)",
+    "MSGTYPID": "040",
+    "API": "FTI",
+    "Ports": {
+      "Port1": 9876,
+      "Port2": 10234,
+      "Port3": 8765,
+      "Port4": 9342,
+      "Port5": 9234,
+      "Port6": 9456,
+      "Port7": 9001,
+      "Port8": 8999,
+      "Port9": 9423
+    },
+    "Total_CNT": 14232
+  },
+  {
+    "API_Description": "FUND TRANSFER (EXTERNAL)",
+    "MSGTYPID": "041",
+    "API": "FTE",
+    "Ports": {
+      "Port1": 4567,
+      "Port2": 4432,
+      "Port3": 4789,
+      "Port4": 4311,
+      "Port5": 4201,
+      "Port6": 4150,
+      "Port7": 4070,
+      "Port8": 4000,
+      "Port9": 4355
+    },
+    "Total_CNT": 12400
+  },
+  {
+    "API_Description": "BALANCE INQUIRY",
+    "MSGTYPID": "010",
+    "API": "BAL",
+    "Ports": {
+      "Port1": 11234,
+      "Port2": 11567,
+      "Port3": 11123,
+      "Port4": 11321,
+      "Port5": 11490,
+      "Port6": 11399,
+      "Port7": 11288,
+      "Port8": 11416,
+      "Port9": 11416
+    },
+    "Total_CNT": 13800
+  },
+  {
+    "API_Description": "MINI STATEMENT FETCH",
+    "MSGTYPID": "011",
+    "API": "MSF",
+    "Ports": {
+      "Port1": 4321,
+      "Port2": 4567,
+      "Port3": 4234,
+      "Port4": 4789,
+      "Port5": 4900,
+      "Port6": 5120,
+      "Port7": 4999,
+      "Port8": 4627,
+      "Port9": 4627
+    },
+    "Total_CNT": 14000
+  },
+  {
+    "API_Description": "CARD ACTIVATION",
+    "MSGTYPID": "070",
+    "API": "ACT",
+    "Ports": {
+      "Port1": 2011,
+      "Port2": 1999,
+      "Port3": 1988,
+      "Port4": 2056,
+      "Port5": 2099,
+      "Port6": 2020,
+      "Port7": 2100,
+      "Port8": 2010,
+      "Port9": 2010
+    },
+    "Total_CNT": 11100
+  },
+  {
+    "API_Description": "CARD BLOCKING REQUEST",
+    "MSGTYPID": "071",
+    "API": "CBL",
+    "Ports": {
+      "Port1": 1678,
+      "Port2": 1700,
+      "Port3": 1632,
+      "Port4": 1654,
+      "Port5": 1600,
+      "Port6": 1550,
+      "Port7": 1509,
+      "Port8": 1630,
+      "Port9": 1630
+    },
+    "Total_CNT": 13783
+  },
+  {
+    "API_Description": "BENEFICIARY REGISTRATION",
+    "MSGTYPID": "050",
+    "API": "BEN",
+    "Ports": {
+      "Port1": 3543,
+      "Port2": 3620,
+      "Port3": 3401,
+      "Port4": 3309,
+      "Port5": 3500,
+      "Port6": 3456,
+      "Port7": 3100,
+      "Port8": 3505,
+      "Port9": 3505
+    },
+    "Total_CNT": 10900
+  },
+  {
+    "API_Description": "MOBILE TOPUP REQUEST",
+    "MSGTYPID": "061",
+    "API": "MTR",
+    "Ports": {
+      "Port1": 6578,
+      "Port2": 6699,
+      "Port3": 6400,
+      "Port4": 6500,
+      "Port5": 6655,
+      "Port6": 6711,
+      "Port7": 6800,
+      "Port8": 6672,
+      "Port9": 6672
+    },
+    "Total_CNT": 14280
+  }
+]
